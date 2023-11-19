@@ -1,0 +1,298 @@
+%作者：汪斐然
+%模板用途：模式识别报告
+%时间：2021年3月
+
+%这是一份基于《2020-2021模式识别期末提交模板》Word版制作的Latex模板。用于方昱春老师的模式识别课程报告。
+%文档中对Latex的各种使用方式都准备了样例并进行备注，包括标题设置、图表添加、文献引用以及字体设置等。
+%参考文献格式和Word版存在一定的区别，使用的是IEEETR格式。是IEEE期刊使用的参考文献引用标准。
+%参考文献选择使用IEEETR格式的原因在于，可以在文章中对参考文献进行超链接索引。
+%希望这份模板可以帮助同学们快速上手Latex，制作漂亮的课程报告；可以在同学们之后的研究学习过程中成为学术论文的参考模板。
+
+%Latex工具：本地编辑平台：TexWorks；在线编辑平台：Overleaf（推荐）
+
+%Latex快速入门教程：
+%1、https://muyuuuu.github.io/2018/11/07/Brief-introduction-to-LaTex/
+%2、https://liam.page/2014/09/08/latex-introduction/
+
+%Latex快速辅助工具使用说明：
+%快速绘制表格工具：https://www.tablesgenerator.com/
+%快速生成公式工具：https://mathpix.com/
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%环境配置%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass{article}
+\usepackage[UTF8]{ctex}
+\usepackage[left=3.18cm,right=3.18cm,top=2.54cm,bottom=2.54cm]{geometry}
+\geometry{a4paper}
+
+%附录包
+\usepackage{appendix} 
+\usepackage{listings}
+
+%代码格式
+\usepackage{xcolor}
+\lstset{
+    numbers=left, 
+    numberstyle= \tiny, 
+    keywordstyle= \color{ blue!70},
+    commentstyle= \color{red!50!green!50!blue!50}, 
+    frame=shadowbox, % 阴影效果
+    rulesepcolor= \color{ red!20!green!20!blue!20} ,
+    escapeinside=``, % 英文分号中可写入中文
+    xleftmargin=2em,xrightmargin=2em, aboveskip=1em,
+    framexleftmargin=2em
+} 
+\usepackage{algorithm}
+\usepackage{algpseudocode}
+\renewcommand{\algorithmicrequire}{\textbf{Input:}}  % Use Input in the 
+\renewcommand{\algorithmicensure}{\textbf{Output:}} % Use Output in the 
+
+%数学
+\usepackage{amsmath}
+\usepackage{amsthm}
+
+%图片
+\usepackage{graphicx} %添加图片
+
+%字体、格式设置
+\usepackage{subfigure}
+\usepackage{float}
+\renewcommand{\vec}[1]{\boldsymbol{#1}} % 生产粗体向量，而不是带箭头的向量
+\usepackage{amssymb}
+\usepackage{booktabs} % excel导出的大表格
+\usepackage{hyperref}
+\usepackage{titlesec}%设置字体的包
+%可选字体：
+% \noindent 中文字体（默认宋体）\\
+% \fangsong 中文字体（仿宋） \songti 中文字体（宋体） \lishu 中文字体（隶书） \heiti 中文字体（黑体）\\
+% \CJKfamily{zhkai} 中文字体（楷书） \CJKfamily{zhyou} 中文字体（幼圆） \CJKfamily{zhyahei} 中文字体（微软雅黑）\\
+
+%调整图表标题的字体样式
+\usepackage{caption}
+\captionsetup{font={small,bf}} 
+
+%新定义
+\newtheorem{definition}{定义} %中文
+\newtheorem{lemma}{引理}
+\newtheorem{theorem}{定理}
+\DeclareMathOperator{\Ima}{Im}%定义新符号
+\DeclareMathOperator{\Rank}{rank}%定义求秩算子
+
+
+
+%设置标题，作者
+\title{\textbf{报告标题}}
+\author{
+汪斐然(18123247)
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%正文%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\songti（宋体）设置全文字体，可改为\heiti（黑体），\fangsong（仿宋）
+\begin{document} \songti
+
+% 插入封面
+\usepackage{multirow}
+\include{cover} %调用封面文件
+
+\date{}
+\maketitle
+
+
+%%%%%%%%%%%%%%%%%%%%%%摘要%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%由摘要和关键词两部分组成
+\begin{center}
+\setlength{\textwidth}{15cm}
+\parbox{\textwidth}{
+\textbf{摘要：}200字左右，应包括目的、方法、结果和结论等要素。目的目的目的目的目的目的目的目的目的目的目的目的目的目的目的目的目的目的。方法方法方法方法方法方法方法方法方法方法方法方法方法方法方法方法。结果结果结果结果结果结果结果结果结果结果结果结果结果结果结果结果结果结果结果结果结果结果。结论结论结论结论结论结论结论结论结论结论结论结论结论结论结论结论结论。
+% \newline
+%   \textbf{关键词：}图像分类, K近邻, 支持向量机, 数据增强
+  }
+\end{center}
+
+%%%%%%%%%%%%%%%%%%%%%%目录%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% \newpage
+% \tableofcontents
+% \newpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%一级标题
+\section{引言}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%二级标题
+\subsection{提出问题（300-500字）}
+%三级标题
+\subsubsection{三级标题}
+正文正文正文正文正文正文正文正文正文正文，正文正文正文正文正文正文正文正文正文正文。正文正文正文正文正文正文正文正文正文正文正文，正文正文正文正文正文正文正文正文正文正文。正文正文正文正文正文正文正文正文正文正文正文，正文正文正文正文正文正文正文正文正文正文。
+
+\subsubsection{三级标题}
+正文正文正文正文正文正文正文正文正文正文，正文正文正文正文正文正文正文正文正文正文。正文正文正文正文正文正文正文正文正文正文正文，正文正文正文正文正文正文正文正文正文正文。正文正文正文正文正文正文正文正文正文正文正文，正文正文正文正文正文正文正文正文正文正文。
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{求解方案分析（300-500字）}
+正文正文正文正文正文正文正文正文正文正文，正文正文正文正文正文正文正文正文正文正文。正文正文正文正文正文正文正文正文正文正文正文，正文正文正文正文正文正文正文正文正文正文。正文正文正文正文正文正文正文正文正文正文正文，正文正文正文正文正文正文正文正文正文正文。
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{论文概述（200字）}
+正文正文正文正文正文正文正文正文正文正文，正文正文正文正文正文正文正文正文正文正文。正文正文正文正文正文正文正文正文正文正文正文，正文正文正文正文正文正文正文正文正文正文。正文正文正文正文正文正文正文正文正文正文正文，正文正文正文正文正文正文正文正文正文正文。
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{相关算法概述}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{算法一（300-500字）}
+正文正文正文正文正文正文正文正文正文正文，正文正文正文正文正文正文正文正文正文正文。正文正文正文正文正文正文正文正文正文正文正文，正文正文正文正文正文正文正文正文正文正文。正文正文正文正文正文正文正文正文正文正文正文，正文正文正文正文正文正文正文正文正文正文，如图\ref{fig:sample}所示。
+
+\begin{figure}[H]               
+	\centering
+	\includegraphics[width=0.5\textwidth]{sample.png}
+	\caption{位于三层材料体系中的位错示意图}
+	\label{fig:sample}
+\end{figure}
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{算法二（300-500字）}
+正文正文正文正文正文正文正文正文正文正文，正文正文正文正文正文正文正文正文正文正文。正文正文正文正文正文正文正文正文正文正文正文，正文正文正文正文正文正文正文正文正文正文。正文正文正文正文正文正文正文正文正文正文正文，正文正文正文正文正文正文正文正文正文正文，如表\ref{table:sanple}所示。
+
+\begin{table}[H]
+\caption{表题标题}
+\begin{center}\label{table:sanple}
+\begin{tabular}{|c|r|r|r|}
+\hline
+    & \multicolumn{1}{c|}{速度/(m.s-1)} & \multicolumn{1}{c|}{时间/s} & \multicolumn{1}{c|}{频率/kHz} \\ \hline
+第一次 &                                 &                           &                             \\ \hline
+第二次 &                                 &                           &                             \\ \hline
+第三次 &                                 &                           &                             \\ \hline
+\end{tabular}
+\end{center}
+\end{table}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{算法三（300-500字）}
+正文正文正文正文正文正文正文正文正文正文，正文正文正文正文正文正文正文正文正文正文。正文正文正文正文正文正文正文正文正文正文正文，正文正文正文正文正文正文正文正文正文正文。正文正文正文正文正文正文正文正文正文正文正文，正文正文正文正文正文正文正文正文正文正文，见公式\ref{eq:sample}。
+
+\begin{equation}\label{eq:sample}
+P(f)=\frac{1}{T} \mid 2 \pi f A \exp \left[-\frac{(2 \pi f \sigma)^{2}}{2}\right]^{2}
+\end{equation}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{算法实现描述}
+正文正文正文正文正文正文正文正文正文正文，正文正文正文正文正文正文正文正文正文正文。正文正文正文正文正文正文正文正文正文正文正文，正文正文正文正文正文正文正文正文正文正文。正文正文正文正文正文正文正文正文正文正文正文，正文正文正文正文正文正文正文正文正文正文。
+
+\subsection{算法总体框架（>500字）}
+正文正文正文正文正文正文正文正文正文正文，正文正文正文正文正文正文正文正文正文正文。正文正文正文正文正文正文正文正文正文正文正文，正文正文正文正文正文正文正文正文正文正文。正文正文正文正文正文正文正文正文正文正文正文，正文正文正文正文正文正文正文正文正文正文，引用参考文献\cite{HSV}。
+
+
+\subsection{改进一及分析（>500字）}
+正文正文正文正文正文正文正文正文正文正文，正文正文正文正文正文正文正文正文正文正文。正文正文正文正文正文正文正文正文正文正文正文，正文正文正文正文正文正文正文正文正文正文。正文正文正文正文正文正文正文正文正文正文正文，正文正文正文正文正文正文正文正文正文正文，引用参考文献\cite{ml}。
+
+\subsection{改进二及分析（>500字）}
+正文正文正文正文正文正文正文正文正文正文，正文正文正文正文正文正文正文正文正文正文。正文正文正文正文正文正文正文正文正文正文正文，正文正文正文正文正文正文正文正文正文正文。正文正文正文正文正文正文正文正文正文正文正文，正文正文正文正文正文正文正文正文正文正文\cite{imgaug}。
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{实验描述}
+\subsection{实验数据和实验方案 （>500字）}
+正文正文正文正文正文正文正文正文正文正文，正文正文正文正文正文正文正文正文正文正文。正文正文正文正文正文正文正文正文正文正文正文，正文正文正文正文正文正文正文正文正文正文。正文正文正文正文正文正文正文正文正文正文正文，正文正文正文正文正文正文正文正文正文正文。
+
+\subsection{实验一及结果分析 （>500字）}
+正文正文正文正文正文正文正文正文正文正文，正文正文正文正文正文正文正文正文正文正文。正文正文正文正文正文正文正文正文正文正文正文，正文正文正文正文正文正文正文正文正文正文。正文正文正文正文正文正文正文正文正文正文正文，正文正文正文正文正文正文正文正文正文正文。
+
+\subsection{实验二及结果分析 （>500字）}
+正文正文正文正文正文正文正文正文正文正文，正文正文正文正文正文正文正文正文正文正文。正文正文正文正文正文正文正文正文正文正文正文，正文正文正文正文正文正文正文正文正文正文。正文正文正文正文正文正文正文正文正文正文正文，正文正文正文正文正文正文正文正文正文正文。
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{结论（500字）}
+正文正文正文正文正文正文正文正文正文正文，正文正文正文正文正文正文正文正文正文正文。正文正文正文正文正文正文正文正文正文正文正文，正文正文正文正文正文正文正文正文正文正文。正文正文正文正文正文正文正文正文正文正文正文，正文正文正文正文正文正文正文正文正文正文。
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{学习体会和建议（300字）}
+正文正文正文正文正文正文正文正文正文正文，正文正文正文正文正文正文正文正文正文正文。正文正文正文正文正文正文正文正文正文正文正文，正文正文正文正文正文正文正文正文正文正文。正文正文正文正文正文正文正文正文正文正文正文，正文正文正文正文正文正文正文正文正文正文。
+
+%%%%%%%%%%%%%%%%%%%引用文献%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\bibliography{article}      % 指定article 代表同目录下的article.bib文件 
+\bibliographystyle{ieeetr}  % 定义文献引用的格式
+
+%%%%%%%%%%%%%%%%%%%%%%%附录%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newpage{}
+\appendix
+\section{附录}
+\begin{appendices}
+1、图模板
+\begin{figure}[htpb]               
+	\centering
+	\includegraphics[width=0.5\textwidth]{svm.png}
+	\caption{SVM模型原理图}
+	\label{fig:svm}
+\end{figure}
+
+2、表模板
+\begin{table}[htpb]
+\caption{最优算法的多指标分析}
+\begin{center}\label{table:score}
+\begin{tabular}{|c|r|r|r|}
+\hline
+   & \multicolumn{1}{c|}{精确率} & \multicolumn{1}{c|}{召回率} & \multicolumn{1}{c|}{F1得分} \\ \hline
+石块 & 0.94                     & 0.96                     & 0.95                      \\ \hline
+金属 & 0.92                     & 0.97                     & 0.95                      \\ \hline
+塑料 & 0.96                     & 0.89                     & 0.93                      \\ \hline
+\end{tabular}
+\end{center}
+\end{table}
+
+3、公式模板
+\begin{equation}\label{eq:svmsuper}
+\begin{array}{l}
+\min _{\boldsymbol{w}, b} \frac{1}{2}\|\boldsymbol{w}\|^{2} \\
+\text { s.t. } y_{i}\left(\boldsymbol{w}^{\mathrm{T}} \boldsymbol{x}_{i}+b\right) \geqslant 1, \quad i=1,2, \ldots, m
+\end{array}
+\end{equation}
+
+
+4、伪代码模板
+ \begin{algorithm}[H]
+  \caption{ K近邻算法步骤}
+  \begin{algorithmic}[1]
+    \Require
+      训练数据集；
+      待预测数据；
+    \Ensure
+      预测数据的类别;
+    \State 加载数据;
+    \State 初始化K值;
+    \State 计算预测样本与训练集中的每一个样本的距离;
+    \State 将距离和索引添加到有序集合中;
+    \State 对距离按从小到大排序方式对距离和索引的有序集合进行排序;
+    \State 从排序的集合中选择前K条数据;
+    \State 获得选的K条数据的标签;
+    \State 计算每一种标签的样本数量;
+    \Return 
+        数量最多的标签作为样本的预测值;
+  \end{algorithmic}
+\end{algorithm}
+
+
+5、代码模板
+\lstset{language=Python}
+\begin{lstlisting}
+#调整图片尺寸到统一大小，并扁平化为一维数据
+def image_to_feature_vector(image, size=(128, 128)):
+
+	return cv2.resize(image, size).flatten()
+
+#提取图像在HSV颜色空间上的颜色直方图，将直方图扁平化，
+#作为特征向量返回
+def extract_color_histogram(image, bins=(32, 32, 32)):
+	hsv = cv2.cvtColor(image, cv2.COLOR_BGR2HSV)
+	hist = cv2.calcHist([hsv], [0, 1, 2], None, bins,
+		[0, 180, 0, 256, 0, 256])
+	if imutils.is_cv2():
+		hist = cv2.normalize(hist)
+	else:
+		cv2.normalize(hist, hist)
+	return hist.flatten()
+
+\end{lstlisting}
+\end{appendices}
+
+\end{document}
