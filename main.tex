@@ -57,11 +57,13 @@
 %字体、格式设置
 \usepackage{subfigure}
 \usepackage{float}
+\usepackage{xeCJK}
 \renewcommand{\vec}[1]{\boldsymbol{#1}} % 生产粗体向量，而不是带箭头的向量
 \usepackage{amssymb}
 \usepackage{booktabs} % excel导出的大表格
 \usepackage{hyperref}
 \usepackage{titlesec}%设置字体的包
+\usepackage{multirow}
 %可选字体：
 % \noindent 中文字体（默认宋体）\\
 % \fangsong 中文字体（仿宋） \songti 中文字体（宋体） \lishu 中文字体（隶书） \heiti 中文字体（黑体）\\
@@ -81,9 +83,9 @@
 
 
 %设置标题，作者
-\title{\textbf{报告标题}}
+\title{\textbf{基于卷积神经网络与SVM的路标识别}}
 \author{
-汪斐然(18123247)
+郑力铖(21122873)
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%正文%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -91,7 +93,6 @@
 \begin{document} \songti
 
 % 插入封面
-\usepackage{multirow}
 \include{cover} %调用封面文件
 
 \date{}
