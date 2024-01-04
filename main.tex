@@ -102,12 +102,12 @@
 %%%%%%%%%%%%%%%%%%%%%%摘要%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %由摘要和关键词两部分组成
 \begin{center}
-\setlength{\textwidth}{15cm}
-\parbox{\textwidth}{
-\textbf{摘要：}作为交通系统的基本要素，交通标志提供了关于驾驶员、行人等的道路状况的重要信息，来降低事故风险。随着计算机视觉和人工智能的快速发展，交通标志识别算法已被应用于先进的驾驶员辅助系统和自动驾驶系统，以帮助驾驶员和自动驾驶车辆准确获取道路信息。然而，在实际应用中交通标志识别仍然具有挑战性。本文对比了经典机器学习方法HOG+SVM和通用视觉识别模型yolov5和yolov8，另外一种针对小型交通标志的特殊优化识别方法。
-\newline
-  \textbf{关键词：}图像识别, 支持向量机, 深度学习。
-}
+    \setlength{\textwidth}{15cm}
+    \parbox{\textwidth}{
+        \textbf{摘要：}作为交通系统的基本要素，交通标志提供了关于驾驶员、行人等的道路状况的重要信息，来降低事故风险。随着计算机视觉和人工智能的快速发展，交通标志识别算法已被应用于先进的驾驶员辅助系统和自动驾驶系统，以帮助驾驶员和自动驾驶车辆准确获取道路信息。然而在实际应用中，交通标志识别仍然具有挑战性。本文对比了经典的机器学习方法HOG+SVM，和通用视觉识别模型yolov5和yolov8方法，探讨在自动驾驶场景下的路标识别方法。
+        \newline
+        \textbf{关键词：}图像识别, 支持向量机, 深度学习, 神经网络。
+    }
 \end{center}
 
 %%%%%%%%%%%%%%%%%%%%%%目录%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -128,8 +128,14 @@
 正文正文正文正文正文正文正文正文正文正文，正文正文正文正文正文正文正文正文正文正文。正文正文正文正文正文正文正文正文正文正文正文，正文正文正文正文正文正文正文正文正文正文。正文正文正文正文正文正文正文正文正文正文正文，正文正文正文正文正文正文正文正文正文正文。
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%
-\subsection{求解方案分析（300-500字）}
-正文正文正文正文正文正文正文正文正文正文，正文正文正文正文正文正文正文正文正文正文。正文正文正文正文正文正文正文正文正文正文正文，正文正文正文正文正文正文正文正文正文正文。正文正文正文正文正文正文正文正文正文正文正文，正文正文正文正文正文正文正文正文正文正文。
+\subsection{求解方案分析}
+早在 2005 年，方向梯度直方图（HOG）就被提出，HOG用来提取图片特征，并和支持向量机（SVM）结合，进行行人检测。HOG+SVM这种经典的机器学习方法在过去取得了一定的成功，但随着技术的进步，人们开始寻求更加高效、准确的解决方案。
+
+近年来，YOLO算法以其高速度和高精度迅速走红。
+
+因此，本文深入研究了yolov5和yolov8这两种先进的目标检测模型。这两种模型都是基于yolo模型的优化，利用深度学习技术，通过神经网络层次结构和先进的目标检测算法，在图像中快速准确地识别路标。相较于传统方法，它们在处理复杂场景和多类别标识时表现更为出色。
+
+在自动驾驶场景下，路标识别至关重要。本文通过对比这些方法的实际应用效果，旨在为自动驾驶系统选择最合适的路标识别方法提供参考。考虑到实时性、准确性和鲁棒性等因素，读者将能够更好地了解何种方法在特定条件下更为适用。
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%
 \subsection{论文概述（200字）}
@@ -138,43 +144,18 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{相关算法概述}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%
-\subsection{算法一（300-500字）}
+\subsection{梯度直方图与支持向量机（HOG+SVM）}
 正文正文正文正文正文正文正文正文正文正文，正文正文正文正文正文正文正文正文正文正文。正文正文正文正文正文正文正文正文正文正文正文，正文正文正文正文正文正文正文正文正文正文。正文正文正文正文正文正文正文正文正文正文正文，正文正文正文正文正文正文正文正文正文正文，如图\ref{fig:sample}所示。
-
-\begin{figure}[H]               
-	\centering
-	\includegraphics[width=0.5\textwidth]{sample.png}
-	\caption{位于三层材料体系中的位错示意图}
-	\label{fig:sample}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.5\textwidth]{sample.png}
+    \caption{位于三层材料体系中的位错示意图}
+    \label{fig:sample}
 \end{figure}
 
+\subsection{对象检测算法YOLO}
+YOLO（You Only Look Once）是一种流行的对象检测和图像分割模型，由华盛顿大学的Joseph Redmon和Ali Farhadi开发。
 
-
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\subsection{算法二（300-500字）}
-正文正文正文正文正文正文正文正文正文正文，正文正文正文正文正文正文正文正文正文正文。正文正文正文正文正文正文正文正文正文正文正文，正文正文正文正文正文正文正文正文正文正文。正文正文正文正文正文正文正文正文正文正文正文，正文正文正文正文正文正文正文正文正文正文，如表\ref{table:sanple}所示。
-
-\begin{table}[H]
-\caption{表题标题}
-\begin{center}\label{table:sanple}
-\begin{tabular}{|c|r|r|r|}
-\hline
-    & \multicolumn{1}{c|}{速度/(m.s-1)} & \multicolumn{1}{c|}{时间/s} & \multicolumn{1}{c|}{频率/kHz} \\ \hline
-第一次 &                                 &                           &                             \\ \hline
-第二次 &                                 &                           &                             \\ \hline
-第三次 &                                 &                           &                             \\ \hline
-\end{tabular}
-\end{center}
-\end{table}
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\subsection{算法三（300-500字）}
-正文正文正文正文正文正文正文正文正文正文，正文正文正文正文正文正文正文正文正文正文。正文正文正文正文正文正文正文正文正文正文正文，正文正文正文正文正文正文正文正文正文正文。正文正文正文正文正文正文正文正文正文正文正文，正文正文正文正文正文正文正文正文正文正文，见公式\ref{eq:sample}。
-
-\begin{equation}\label{eq:sample}
-P(f)=\frac{1}{T} \mid 2 \pi f A \exp \left[-\frac{(2 \pi f \sigma)^{2}}{2}\right]^{2}
-\end{equation}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{算法实现描述}
@@ -219,63 +200,63 @@ P(f)=\frac{1}{T} \mid 2 \pi f A \exp \left[-\frac{(2 \pi f \sigma)^{2}}{2}\right
 \appendix
 \section{附录}
 \begin{appendices}
-1、图模板
-\begin{figure}[htpb]               
-	\centering
-	\includegraphics[width=0.5\textwidth]{svm.png}
-	\caption{SVM模型原理图}
-	\label{fig:svm}
-\end{figure}
+    1、图模板
+    \begin{figure}[htpb]
+        \centering
+        \includegraphics[width=0.5\textwidth]{svm.png}
+        \caption{SVM模型原理图}
+        \label{fig:svm}
+    \end{figure}
 
-2、表模板
-\begin{table}[htpb]
-\caption{最优算法的多指标分析}
-\begin{center}\label{table:score}
-\begin{tabular}{|c|r|r|r|}
-\hline
-   & \multicolumn{1}{c|}{精确率} & \multicolumn{1}{c|}{召回率} & \multicolumn{1}{c|}{F1得分} \\ \hline
-石块 & 0.94                     & 0.96                     & 0.95                      \\ \hline
-金属 & 0.92                     & 0.97                     & 0.95                      \\ \hline
-塑料 & 0.96                     & 0.89                     & 0.93                      \\ \hline
-\end{tabular}
-\end{center}
-\end{table}
+    2、表模板
+    \begin{table}[htpb]
+        \caption{最优算法的多指标分析}
+        \begin{center}\label{table:score}
+            \begin{tabular}{|c|r|r|r|}
+                \hline
+                     & \multicolumn{1}{c|}{精确率} & \multicolumn{1}{c|}{召回率} & \multicolumn{1}{c|}{F1得分} \\ \hline
+                石块 & 0.94                        & 0.96                        & 0.95                        \\ \hline
+                金属 & 0.92                        & 0.97                        & 0.95                        \\ \hline
+                塑料 & 0.96                        & 0.89                        & 0.93                        \\ \hline
+            \end{tabular}
+        \end{center}
+    \end{table}
 
-3、公式模板
-\begin{equation}\label{eq:svmsuper}
-\begin{array}{l}
-\min _{\boldsymbol{w}, b} \frac{1}{2}\|\boldsymbol{w}\|^{2} \\
-\text { s.t. } y_{i}\left(\boldsymbol{w}^{\mathrm{T}} \boldsymbol{x}_{i}+b\right) \geqslant 1, \quad i=1,2, \ldots, m
-\end{array}
-\end{equation}
-
-
-4、伪代码模板
- \begin{algorithm}[H]
-  \caption{ K近邻算法步骤}
-  \begin{algorithmic}[1]
-    \Require
-      训练数据集；
-      待预测数据；
-    \Ensure
-      预测数据的类别;
-    \State 加载数据;
-    \State 初始化K值;
-    \State 计算预测样本与训练集中的每一个样本的距离;
-    \State 将距离和索引添加到有序集合中;
-    \State 对距离按从小到大排序方式对距离和索引的有序集合进行排序;
-    \State 从排序的集合中选择前K条数据;
-    \State 获得选的K条数据的标签;
-    \State 计算每一种标签的样本数量;
-    \Return 
-        数量最多的标签作为样本的预测值;
-  \end{algorithmic}
-\end{algorithm}
+    3、公式模板
+    \begin{equation}\label{eq:svmsuper}
+        \begin{array}{l}
+            \min _{\boldsymbol{w}, b} \frac{1}{2}\|\boldsymbol{w}\|^{2} \\
+            \text { s.t. } y_{i}\left(\boldsymbol{w}^{\mathrm{T}} \boldsymbol{x}_{i}+b\right) \geqslant 1, \quad i=1,2, \ldots, m
+        \end{array}
+    \end{equation}
 
 
-5、代码模板
-\lstset{language=Python}
-\begin{lstlisting}
+    4、伪代码模板
+    \begin{algorithm}[H]
+        \caption{ K近邻算法步骤}
+        \begin{algorithmic}[1]
+            \Require
+            训练数据集；
+            待预测数据；
+            \Ensure
+            预测数据的类别;
+            \State 加载数据;
+            \State 初始化K值;
+            \State 计算预测样本与训练集中的每一个样本的距离;
+            \State 将距离和索引添加到有序集合中;
+            \State 对距离按从小到大排序方式对距离和索引的有序集合进行排序;
+            \State 从排序的集合中选择前K条数据;
+            \State 获得选的K条数据的标签;
+            \State 计算每一种标签的样本数量;
+            \Return
+            数量最多的标签作为样本的预测值;
+        \end{algorithmic}
+    \end{algorithm}
+
+
+    5、代码模板
+    \lstset{language=Python}
+    \begin{lstlisting}
 #调整图片尺寸到统一大小，并扁平化为一维数据
 def image_to_feature_vector(image, size=(128, 128)):
 
