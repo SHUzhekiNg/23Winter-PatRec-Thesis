@@ -1,0 +1,588 @@
+TY  - JOUR
+AU  - Zhang, R.
+AU  - He, Z.
+AU  - Wang, H.
+AU  - You, F.
+AU  - Li, K.
+PY  - 2017
+DA  - 2017//
+TI  - Study on self-tuning tyre friction control for developing main-servo loop integrated chassis control system
+JO  - IEEE Access
+VL  - 5
+UR  - https://doi.org/10.1109/ACCESS.2017.2669263
+DO  - 10.1109/ACCESS.2017.2669263
+ID  - Zhang2017
+ER  - 
+TY  - STD
+TI  - Intelligent recognition system, https://www.qzshangwu.com/t/1/Wap/NewsView1.aspx?id=19583
+UR  - https://www.qzshangwu.com/t/1/Wap/NewsView1.aspx?id=19583
+ID  - ref2
+ER  - 
+TY  - STD
+TI  - Dinh VQ, Lee Y, Choi H, Jeon M (2018) Real-time traffic sign recognition. pp 206–212
+ID  - ref3
+ER  - 
+TY  - STD
+TI  - Liang M, Yuan M, Hu X, Li J, Liu H (2013) Traffic sign detection by ROI extraction and histogram features-based recognition. pp 1–8
+ID  - ref4
+ER  - 
+TY  - JOUR
+AU  - Greenhalgh, J.
+AU  - Mirmehdi, M.
+PY  - 2012
+DA  - 2012//
+TI  - Real-time detection and recognition of road traffic signs
+JO  - IEEE Trans Intell Transp Syst
+VL  - 13
+UR  - https://doi.org/10.1109/TITS.2012.2208909
+DO  - 10.1109/TITS.2012.2208909
+ID  - Greenhalgh2012
+ER  - 
+TY  - JOUR
+AU  - Yang, Y.
+AU  - Luo, H.
+AU  - Xu, H.
+AU  - Wu, F.
+PY  - 2015
+DA  - 2015//
+TI  - Towards real-time traffic sign detection and classification
+JO  - IEEE Trans Intell Transp Syst
+VL  - 17
+UR  - https://doi.org/10.1109/TITS.2015.2482461
+DO  - 10.1109/TITS.2015.2482461
+ID  - Yang2015
+ER  - 
+TY  - JOUR
+AU  - Chen, X.
+AU  - Li, Z.
+AU  - Yang, Y.
+AU  - Qi, L.
+AU  - Ke, R.
+PY  - 2020
+DA  - 2020//
+TI  - High-resolution vehicle trajectory extraction and denoising from aerial videos
+JO  - IEEE Trans Intell Transp Syst
+VL  - 22
+UR  - https://doi.org/10.1109/TITS.2020.3003782
+DO  - 10.1109/TITS.2020.3003782
+ID  - Chen2020
+ER  - 
+TY  - JOUR
+AU  - Chen, X.
+AU  - Lu, J.
+AU  - Zhao, J.
+AU  - Qu, Z.
+AU  - Yang, Y.
+AU  - Xian, J.
+PY  - 2020
+DA  - 2020//
+TI  - Traffic flow prediction at varied time scales via ensemble empirical mode decomposition and artificial neural network
+JO  - Sustainability
+VL  - 12
+UR  - https://doi.org/10.3390/su12093678
+DO  - 10.3390/su12093678
+ID  - Chen2020
+ER  - 
+TY  - STD
+TI  - Redmon J, Divvala S, Girshick R, Farhadi A (2016) You only look once: unified, real-time object detection, pp 779–788
+ID  - ref9
+ER  - 
+TY  - JOUR
+AU  - Ren, S.
+AU  - He, K.
+AU  - Girshick, R.
+AU  - Sun, J.
+PY  - 2016
+DA  - 2016//
+TI  - Faster r-cnn: towards real-time object detection with region proposal networks
+JO  - IEEE Trans Pattern Anal Mach Intell
+VL  - 39
+UR  - https://doi.org/10.1109/TPAMI.2016.2577031
+DO  - 10.1109/TPAMI.2016.2577031
+ID  - Ren2016
+ER  - 
+TY  - JOUR
+AU  - Everingham, M.
+AU  - Gool, L. V.
+AU  - Williams, C. K. I.
+AU  - Winn, J.
+AU  - Zisserman, A.
+PY  - 2010
+DA  - 2010//
+TI  - The pascal visual object classes (voc) challenge
+JO  - Int J Comput Vis
+VL  - 88
+UR  - https://doi.org/10.1007/s11263-009-0275-4
+DO  - 10.1007/s11263-009-0275-4
+ID  - Everingham2010
+ER  - 
+TY  - CHAP
+AU  - Lin, T. -. Y.
+AU  - Maire, M.
+AU  - Belongie, S.
+AU  - Hays, J.
+AU  - Perona, P.
+AU  - Ramanan, D.
+AU  - Dollár, P.
+AU  - Zitnick, C. L.
+PY  - 2014
+DA  - 2014//
+TI  - Microsoft coco: common objects in context
+BT  - European conference on computer vision
+PB  - Springer
+CY  - Cham
+ID  - Lin2014
+ER  - 
+TY  - JOUR
+AU  - Stallkamp, J.
+AU  - Schlipsing, M.
+AU  - Salmen, J.
+AU  - Igel, C.
+PY  - 2012
+DA  - 2012//
+TI  - Man vs. computer: benchmarking machine learning algorithms for traffic sign recognition
+JO  - Neural Netw
+VL  - 32
+UR  - https://doi.org/10.1016/j.neunet.2012.02.016
+DO  - 10.1016/j.neunet.2012.02.016
+ID  - Stallkamp2012
+ER  - 
+TY  - STD
+TI  - Houben S, Stallkamp J, Salmen J, Schlipsing M, Igel C (2013) Detection of traffic signs in real-world images: the German traffic sign detection benchmark. pp 1–8
+ID  - ref14
+ER  - 
+TY  - JOUR
+AU  - Møgelmose, A.
+AU  - Liu, D.
+AU  - Trivedi, M. M.
+PY  - 2015
+DA  - 2015//
+TI  - Detection of US traffic signs
+JO  - IEEE Trans Intell Transp Syst
+VL  - 16
+UR  - https://doi.org/10.1109/TITS.2015.2433019
+DO  - 10.1109/TITS.2015.2433019
+ID  - Møgelmose2015
+ER  - 
+TY  - STD
+TI  - Zhu Z, Liang D, Zhang S, Huang X, Li B, Hu S (2016) Traffic-sign detection and classification in the wild. pp 2110–2118
+ID  - ref16
+ER  - 
+TY  - CHAP
+AU  - Cai, Z.
+AU  - Fan, Q.
+AU  - Feris, R. S.
+AU  - Vasconcelos, N.
+PY  - 2016
+DA  - 2016//
+TI  - A unified multi-scale deep convolutional neural network for fast object detection
+BT  - European conference on compute vision
+PB  - Springer
+CY  - Cham
+ID  - Cai2016
+ER  - 
+TY  - STD
+TI  - Yang F, Choi W, Lin Y (2016) Exploit all the layers: fast and accurate CNN object detector with scale dependent pooling and cascaded rejection classifiers. pp 2129–2137
+ID  - ref18
+ER  - 
+TY  - CHAP
+AU  - Liu, W.
+AU  - Anguelov, D.
+AU  - Erhan, D.
+AU  - Szegedy, C.
+AU  - Reed, S.
+AU  - FuC, Y.
+AU  - Berg, A. C.
+PY  - 2016
+DA  - 2016//
+TI  - Ssd: Single shot multibox detector
+BT  - European conference on compute vision
+PB  - Springer
+CY  - Cham
+ID  - Liu2016
+ER  - 
+TY  - STD
+TI  - Lin T-Y, Dollár P, Girshick R, He K, Hariharan B, Belongie S (2017) Feature pyramid networks for object detection. In: Proceedings of the IEEE conference on computer vision and pattern recognition, pp 2117–2125
+ID  - ref20
+ER  - 
+TY  - STD
+TI  - Fu C.-Y, Liu W, Ranga A, Tyagi A, Berg A. C (2017) Dssd: deconvolutional single shot detector, arXiv preprint arXiv:1701.06659
+UR  - http://arxiv.org/abs/1701.06659
+ID  - ref21
+ER  - 
+TY  - STD
+TI  - He K, Gkioxari G, Dollár P, Girshick R (2017) Mask r-cnn. In: Proceedings of the IEEE international conference on computer vision, pp. 2961–2969
+ID  - ref22
+ER  - 
+TY  - JOUR
+AU  - Chen, S.
+AU  - Wang, B.
+AU  - Tan, X.
+AU  - Hu, X.
+PY  - 2018
+DA  - 2018//
+TI  - Embedding attention and residual network for accurate salient object detection
+JO  - IEEE Trans Cybern
+VL  - 50
+UR  - https://doi.org/10.1109/TCYB.2018.2879859
+DO  - 10.1109/TCYB.2018.2879859
+ID  - Chen2018
+ER  - 
+TY  - STD
+TI  - Cui L, Ma R, Lv P, Jiang X, Gao Z, Zhou B, Xu M (2018) Mdssd: multi-scale deconvolutional single shot detector for small objects, arXiv preprint arXiv:1805.07009
+UR  - http://arxiv.org/abs/1805.07009
+ID  - ref24
+ER  - 
+TY  - STD
+TI  - Bochkovskiy A, Wang C.-Y, Liao H.-Y. M (2020) Yolov4: optimal speed and accuracy of object detection, arXiv preprint arXiv:2004.10934
+UR  - http://arxiv.org/abs/2004.10934
+ID  - ref25
+ER  - 
+TY  - STD
+TI  - Zou Z, Shi Z, Guo Y, Ye J (2019) Object detection in 20 years: a survey, arXiv preprint arXiv:1905.05055
+UR  - http://arxiv.org/abs/1905.05055
+ID  - ref26
+ER  - 
+TY  - STD
+TI  - Girshick R, Donahue J, Darrell T, Malik J (2014) Rich feature hierarchies for accurate object detection and semantic segmentation, pp 580–587
+ID  - ref27
+ER  - 
+TY  - JOUR
+AU  - He, K.
+AU  - Zhang, X.
+AU  - Ren, S.
+AU  - Sun, J.
+PY  - 2015
+DA  - 2015//
+TI  - Spatial pyramid pooling in deep convolutional networks for visual recognition
+JO  - IEEE Trans Pattern Anal Mach Intell
+VL  - 37
+UR  - https://doi.org/10.1109/TPAMI.2015.2389824
+DO  - 10.1109/TPAMI.2015.2389824
+ID  - He2015
+ER  - 
+TY  - STD
+TI  - Girshick R (2015) Fast r-cnn. In: Proceedings of the IEEE International conference on computer vision, pp. 1440–1448
+ID  - ref29
+ER  - 
+TY  - CHAP
+AU  - Liu, W.
+AU  - Anguelov, D.
+AU  - Erhan, D.
+AU  - Szegedy, C.
+AU  - Reed, S.
+AU  - Fu, C. -. Y.
+AU  - Berg, A. C.
+PY  - 2016
+DA  - 2016//
+TI  - Ssd: single shot multibox detector
+BT  - Eur Conf Comput Vis
+PB  - Springer
+CY  - Cham
+ID  - Liu2016
+ER  - 
+TY  - STD
+TI  - Lin T-Y, Goyal P, Girshick R, He K, Dollár P (2017) Focal loss for dense object detection. pp 2980–2988
+ID  - ref31
+ER  - 
+TY  - STD
+TI  - Dalal N, Triggs B (2005) Histograms of oriented gradients for human detection. In: 2005 IEEE Computer society conference on computer vision and pattern recognition (CVPR’05), pp 886–893. IEEE
+ID  - ref32
+ER  - 
+TY  - JOUR
+AU  - Lowe, D. G.
+PY  - 2004
+DA  - 2004//
+TI  - Distinctive image features from scale-invariant keypoints
+JO  - Int J Comput Vis
+VL  - 60
+UR  - https://doi.org/10.1023/B:VISI.0000029664.99615.94
+DO  - 10.1023/B:VISI.0000029664.99615.94
+ID  - Lowe2004
+ER  - 
+TY  - STD
+TI  - Redmon J, Farhadi A (2017) Yolo9000: better, faster, stronger. In: Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 7263–7271
+ID  - ref34
+ER  - 
+TY  - STD
+TI  - Redmon J, Farhadi A (2018) Yolov3: an incremental improvement, arXiv preprint arXiv:1804.02767
+UR  - http://arxiv.org/abs/1804.02767
+ID  - ref35
+ER  - 
+TY  - JOUR
+AU  - Liu, C.
+AU  - Li, S.
+AU  - Chang, F.
+AU  - Wang, Y.
+PY  - 2019
+DA  - 2019//
+TI  - Machine vision based traffic sign detection methods: review, analyses and perspectives
+JO  - IEEE Access
+VL  - 7
+UR  - https://doi.org/10.1109/ACCESS.2019.2924947
+DO  - 10.1109/ACCESS.2019.2924947
+ID  - Liu2019
+ER  - 
+TY  - JOUR
+AU  - Gómez-Moreno, H.
+AU  - Maldonado-Bascón, S.
+AU  - Gil-Jiménez, P.
+AU  - Lafuente-Arroyo, S.
+PY  - 2010
+DA  - 2010//
+TI  - Goal evaluation of segmentation algorithms for traffic sign recognition
+JO  - IEEE Trans Intell Transp Syst
+VL  - 11
+UR  - https://doi.org/10.1109/TITS.2010.2054084
+DO  - 10.1109/TITS.2010.2054084
+ID  - Gómez-Moreno2010
+ER  - 
+TY  - JOUR
+AU  - Zhang, K.
+AU  - Sheng, Y.
+AU  - Li, J.
+PY  - 2012
+DA  - 2012//
+TI  - Automatic detection of road traffic signs from natural scene images based on pixel vector and central projected shape feature
+JO  - IET Intell Transp Syst
+VL  - 6
+UR  - https://doi.org/10.1049/iet-its.2011.0105
+DO  - 10.1049/iet-its.2011.0105
+ID  - Zhang2012
+ER  - 
+TY  - JOUR
+AU  - Salti, S.
+AU  - Petrelli, A.
+AU  - Tombari, F.
+AU  - Fioraio, N.
+AU  - Stefano, L. D.
+PY  - 2015
+DA  - 2015//
+TI  - Traffic sign detection via interest region extraction
+JO  - Pattern Recogn
+VL  - 48
+UR  - https://doi.org/10.1016/j.patcog.2014.05.017
+DO  - 10.1016/j.patcog.2014.05.017
+ID  - Salti2015
+ER  - 
+TY  - JOUR
+AU  - Fang, C. Y.
+AU  - Chen, S. W.
+AU  - Fuh, C. S.
+PY  - 2003
+DA  - 2003//
+TI  - Road-sign detection and tracking
+JO  - IEEE Trans Veh Technol
+VL  - 52
+UR  - https://doi.org/10.1109/TVT.2003.810999
+DO  - 10.1109/TVT.2003.810999
+ID  - Fang2003
+ER  - 
+TY  - JOUR
+AU  - Barnes, N.
+AU  - Zelinsky, A.
+AU  - Fletcher, L. S.
+PY  - 2008
+DA  - 2008//
+TI  - Real-time speed sign detection using the radial symmetry detector
+JO  - IEEE Trans Intell Transp Syst
+VL  - 9
+UR  - https://doi.org/10.1109/TITS.2008.922935
+DO  - 10.1109/TITS.2008.922935
+ID  - Barnes2008
+ER  - 
+TY  - JOUR
+AU  - Chen, T.
+AU  - Lu, S.
+PY  - 2016
+DA  - 2016//
+TI  - Accurate and efficient traffic sign detection using discriminative adaboost and support vector regression
+JO  - IEEE Trans Veh Technol
+VL  - 65
+UR  - https://doi.org/10.1109/TVT.2015.2500275
+DO  - 10.1109/TVT.2015.2500275
+ID  - Chen2016
+ER  - 
+TY  - JOUR
+AU  - Mogelmose, A.
+AU  - Liu, D.
+AU  - Trivedi, M. M.
+PY  - 2015
+DA  - 2015//
+TI  - Detection of US traffic signs
+JO  - IEEE Trans Intell Transp Syst
+VL  - 16
+UR  - https://doi.org/10.1109/TITS.2015.2433019
+DO  - 10.1109/TITS.2015.2433019
+ID  - Mogelmose2015
+ER  - 
+TY  - JOUR
+AU  - Park, J. G.
+AU  - Kim, K. J.
+PY  - 2013
+DA  - 2013//
+TI  - Design of a visual perception model with edge-adaptive Gabor filter and support vector machine for traffic sign detection
+JO  - Expert Syst Appl
+VL  - 40
+UR  - https://doi.org/10.1016/j.eswa.2012.12.072
+DO  - 10.1016/j.eswa.2012.12.072
+ID  - Park2013
+ER  - 
+TY  - JOUR
+AU  - Berkaya, S. K.
+AU  - Gunduz, H.
+AU  - Ozsen, O.
+AU  - Akinlar, C.
+AU  - Gunal, S.
+PY  - 2016
+DA  - 2016//
+TI  - On circular traffic sign detection and recognition
+JO  - Expert Syst Appl
+VL  - 48
+UR  - https://doi.org/10.1016/j.eswa.2015.11.018
+DO  - 10.1016/j.eswa.2015.11.018
+ID  - Berkaya2016
+ER  - 
+TY  - STD
+TI  - Chen G,Wang H, Chen K, Li Z, Song Z, Liu Y, Chen W, Knoll A (2020) A survey of the four pillars for small object detection: Multiscale representation, contextual information, super-resolution, and region proposal, IEEE Transactions on systems, man, and cybernetics: systems
+ID  - ref46
+ER  - 
+TY  - JOUR
+AU  - Liu, Z.
+AU  - Du, J.
+AU  - Tian, F.
+AU  - Wen, J.
+PY  - 2019
+DA  - 2019//
+TI  - MR-CNN: a multi-scale region-based convolutional neural network for small traffic sign recognition
+JO  - IEEE Access
+VL  - 7
+UR  - https://doi.org/10.1109/ACCESS.2019.2913882
+DO  - 10.1109/ACCESS.2019.2913882
+ID  - Liu2019
+ER  - 
+TY  - JOUR
+AU  - Liu, Z.
+AU  - Li, D.
+AU  - Ge, S. S.
+AU  - Tian, F.
+PY  - 2020
+DA  - 2020//
+TI  - Small traffic sign detection from large image
+JO  - Appl Intell
+VL  - 50
+UR  - https://doi.org/10.1007/s10489-019-01511-7
+DO  - 10.1007/s10489-019-01511-7
+ID  - Liu2020
+ER  - 
+TY  - STD
+TI  - Cui L, Lv P, Jiang X, Gao Z, Zhou B, Zhang L, Shao L, Xu M (2020) Context-aware block net for small object detection. In: IEEE Transactions on cybernetics
+ID  - ref49
+ER  - 
+TY  - STD
+TI  - Liu S, Huang D (2018) Receptive field block net for accurate and fast object detection
+ID  - ref50
+ER  - 
+TY  - STD
+TI  - Li J, Liang X, Wei Y, Xu T, Feng J, Yan S (2017) Perceptual generative adversarial networks for small object detection. pp 1222–1230
+ID  - ref51
+ER  - 
+TY  - STD
+TI  - Bai Y, Zhang Y, Ding M, Ghanem B (2018) Finding tiny faces in the wild with generative adversarial network, pp 21–30
+ID  - ref52
+ER  - 
+TY  - JOUR
+AU  - Fang, L.
+AU  - Zhao, X.
+AU  - Zhang, S.
+PY  - 2019
+DA  - 2019//
+TI  - Small-objectness sensitive detection based on shifted single shot detector
+JO  - Multimedia Tools Appl
+VL  - 78
+UR  - https://doi.org/10.1007/s11042-018-6227-7
+DO  - 10.1007/s11042-018-6227-7
+ID  - Fang2019
+ER  - 
+TY  - STD
+TI  - Eggert C, Zecha D, Brehm S, Lienhart R (2017) Improving small object proposals for company logo detection, pp 167–174
+ID  - ref54
+ER  - 
+TY  - STD
+TI  - Yu F, Koltun V (2016) Multi-scale context aggregation by dilated convolutions. In: ICLR
+ID  - ref55
+ER  - 
+TY  - STD
+TI  - Yu F, Koltun V, Funkhouser T (2017) Dilated residual networks
+ID  - ref56
+ER  - 
+TY  - STD
+TI  - Jocher G, Stoken A, Borovec J, NanoCode012, ChristopherSTAN, L. Changyu, Laughing, tkianai, yxNONG, A. Hogan, lorenzomammana, AlexWang1900, A. Chaurasia, L. Diaconu, Marc, wanghaoyang0106, ml5ah, Doug, Durgesh, F. Ingham, Frederik, Guilhen, A. Colmagro, H. Ye, Jacobsolawetz, J. Poznanski, J. Fang, J. Kim, K. Doan, L. Yu, ultralytics/yolov5: v4.0 - nn.SiLU() activations, Weights & Biases logging, PyTorch Hub integration, https://doi.org/10.5281/zenodo.4418161 (Jan. 2021)
+ID  - ref57
+ER  - 
+TY  - STD
+TI  - Wang C-Y, Mark Liao H-Y, Wu Y-H, Chen P-Y, Hsieh J-W, Yeh I-H (2020) CSPNeT: a new backbone that can enhance learning capability of CNN. pp 390–391
+ID  - ref58
+ER  - 
+TY  - STD
+TI  - Misra D (2019) Mish: a self regularized non-monotonic neural activation function, arXiv preprint arXiv:1908.08681
+UR  - http://arxiv.org/abs/1908.08681
+ID  - ref59
+ER  - 
+TY  - STD
+TI  - Liu S, Qi L, Qin H, Shi J, Jia J (2018) Path aggregation network for instance segmentation. In: Proceedings of the IEEE Conference on computer vision and pattern recognition, pp. 8759–8768
+ID  - ref60
+ER  - 
+TY  - STD
+TI  - Huang G, Liu Z, van der Maaten L, Weinberger KQ (2017) Densely connected convolutional networks. In: Proceedings of the IEEE conference on computer vision and pattern recognition (CVPR)
+ID  - ref61
+ER  - 
+TY  - STD
+TI  - He K, Zhang X, Ren S, Sun J (2016) Deep residual learning for image recognition. In: Proceedings of the IEEE Conference on computer vision and pattern recognition (CVPR)
+ID  - ref62
+ER  - 
+TY  - JOUR
+AU  - Chen, L. -. C.
+AU  - Papandreou, G.
+AU  - Kokkinos, I.
+AU  - Murphy, K.
+AU  - Yuille, A. L.
+PY  - 2017
+DA  - 2017//
+TI  - Deeplab: semantic image segmentation with deep convolutional nets, atrous convolution, and fully connected crfs
+JO  - IEEE Trans Pattern Anal Mach Intell
+VL  - 40
+UR  - https://doi.org/10.1109/TPAMI.2017.2699184
+DO  - 10.1109/TPAMI.2017.2699184
+ID  - Chen2017
+ER  - 
+TY  - JOUR
+AU  - Zhong, Z.
+AU  - Zheng, L.
+AU  - Kang, G.
+AU  - Li, S.
+AU  - Yang, Y.
+PY  - 2020
+DA  - 2020//
+TI  - Random erasing data augmentation
+JO  - AAAI
+VL  - 34
+UR  - https://doi.org/10.1609/aaai.v34i07.7000
+DO  - 10.1609/aaai.v34i07.7000
+ID  - Zhong2020
+ER  - 
+TY  - JOUR
+AU  - Zhang, H.
+AU  - Qin, L.
+AU  - Li, J.
+AU  - Guo, Y.
+AU  - Xu, Z.
+PY  - 2020
+DA  - 2020//
+TI  - Real-time detection method for small traffic signs based on Yolov3
+JO  - IEEE Access
+VL  - 8
+UR  - https://doi.org/10.1109/ACCESS.2020.2984554
+DO  - 10.1109/ACCESS.2020.2984554
+ID  - Zhang2020
+ER  - 
