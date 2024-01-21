@@ -1,0 +1,293 @@
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_823.jpg 62 255 130 323 3 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1284.jpg 227 131 302 206 3 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1071.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1362.jpg 99 291 223 415 0 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1108.jpg 304 260 364 320 5 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1390.jpg 55 155 116 216 1 165 153 212 200 4 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1242.jpg 382 306 446 370 3 129 190 265 326 4 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_456.jpg 194 400 245 451 0 105 396 157 448 1 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1034.jpg 355 221 410 276 5 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_215.jpg 164 260 215 311 1 232 260 286 314 0 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1253.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1152.jpg 294 175 331 212 5 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_5.jpg 190 233 255 298 0 306 224 387 305 0 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_117.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_910.jpg 38 325 87 374 1 121 321 170 370 1 200 320 246 366 0 295 317 343 365 2 498 216 596 314 4 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_104.jpg 43 446 78 481 3 120 302 171 353 1 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1150.jpg 184 316 241 373 0 125 259 215 349 0 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_272.jpg 299 211 333 245 5 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_936.jpg 0 320 99 437 0 184 297 289 402 0 402 271 527 396 2 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_990.jpg 179 261 226 308 0 27 260 83 316 1 80 257 133 310 0 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_602.jpg 279 130 378 229 3 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_22.jpg 266 200 334 268 0 380 178 456 254 0 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1027.jpg 171 135 291 255 4 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_201.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1043.jpg 334 177 383 226 5 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1217.jpg 129 187 288 346 3 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_733.jpg 77 303 159 385 1 206 294 288 376 0 297 288 380 371 2 374 281 462 369 2 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1149.jpg 247 241 323 317 3 163 237 244 318 4 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1277.jpg 188 458 239 509 3 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_302.jpg 278 260 339 321 0 168 255 232 319 1 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1294.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_650.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1398.jpg 0 194 72 268 1 84 180 163 259 0 187 169 265 247 0 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1053.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1057.jpg 0 19 39 64 3 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_510.jpg 223 304 271 352 4 273 300 324 351 3 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_964.jpg 172 233 271 332 3 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1282.jpg 301 271 350 320 5 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_514.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_152.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1060.jpg 25 335 100 410 0 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_9.jpg 7 339 76 408 1 119 329 191 401 1 231 321 302 392 0 374 311 449 386 2 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_940.jpg 156 307 211 362 3 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_980.jpg 357 416 405 464 1 41 360 93 412 1 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_806.jpg 30 420 62 452 3 112 282 162 332 1 201 278 251 328 1 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_255.jpg 0 302 69 389 0 119 282 217 380 0 273 257 378 362 0 456 229 567 340 2 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1103.jpg 0 264 66 334 1 67 254 140 327 0 180 243 255 318 0 301 232 379 310 0 436 217 517 298 2 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1213.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1379.jpg 146 202 242 298 5 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1378.jpg 296 256 341 301 3 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1019.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_96.jpg 94 235 208 349 0 282 186 397 301 0 508 132 640 275 2 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1181.jpg 45 322 106 383 1 313 320 375 382 1 245 319 306 380 0 147 319 208 380 1 370 317 435 382 2 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1273.jpg 0 309 54 369 1 58 303 120 365 0 156 296 219 359 0 257 290 320 353 0 366 284 430 348 2 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_11.jpg 256 333 301 378 0 177 332 223 378 1 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_57.jpg 69 338 106 375 3 26 339 64 377 4 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_237.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1252.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_837.jpg 279 228 369 318 4 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_468.jpg 306 146 338 178 5 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1248.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_291.jpg 261 438 307 484 5 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_522.jpg 293 332 337 376 0 215 329 260 374 1 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1249.jpg 242 44 340 142 0 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_431.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1415.jpg 267 263 298 294 5 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_262.jpg 184 170 267 253 3 91 168 174 251 4 0 161 82 243 3 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_399.jpg 395 354 444 403 4 224 355 258 389 0 165 354 200 389 1 102 354 141 393 1 294 354 330 390 2 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_369.jpg 278 127 379 228 3 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_843.jpg 224 241 261 278 1 292 237 331 276 1 433 227 474 268 0 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1310.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1165.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_665.jpg 163 101 430 368 3 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1073.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_19.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_644.jpg 108 243 165 300 4 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_961.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_711.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1343.jpg 316 120 397 201 5 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1457.jpg 121 226 185 290 5 252 214 293 255 0 312 183 356 227 0 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_646.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_162.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_669.jpg 280 21 561 302 5 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_204.jpg 355 371 395 411 5 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1318.jpg 333 352 369 388 0 367 351 405 389 0 293 351 329 387 0 168 350 209 391 1 231 348 270 387 1 480 342 536 398 4 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_519.jpg 191 182 236 227 1 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_736.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_120.jpg 260 480 362 582 5 152 278 195 321 2 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_357.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_402.jpg 301 366 344 409 2 191 367 237 413 1 153 365 200 412 1 227 364 276 413 1 261 362 310 411 2 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_561.jpg 0 177 121 322 0 287 136 436 285 2 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_638.jpg 341 362 379 400 2 270 361 305 396 0 149 362 187 400 0 446 360 497 411 4 211 361 249 399 1 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1302.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_899.jpg 319 207 352 240 5 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_419.jpg 222 316 269 363 4 272 314 319 361 3 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1427.jpg 259 240 353 334 4 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_891.jpg 424 196 545 317 4 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_849.jpg 286 179 404 297 4 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1030.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1382.jpg 222 262 302 342 3 131 260 216 345 4 31 260 121 350 4 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1054.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1072.jpg 39 139 154 254 1 258 123 374 239 0 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_875.jpg 134 381 179 426 1 207 378 254 425 1 279 376 322 419 0 366 374 411 419 2 532 320 610 398 4 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_963.jpg 104 399 210 505 3 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_72.jpg 40 223 113 296 1 216 223 312 319 0 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_338.jpg 355 137 432 214 4 438 131 519 212 3 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1032.jpg 170 360 213 403 1 235 359 274 398 1 338 359 376 397 2 297 359 335 397 0 372 357 411 396 2 490 344 548 402 4 548 250 624 326 5 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_919.jpg 21 251 115 345 3 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_594.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1155.jpg 77 178 169 270 1 222 128 329 235 0 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_678.jpg 216 23 504 311 5 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1189.jpg 247 323 287 363 3 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_610.jpg 470 110 556 196 5 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1142.jpg 293 190 375 272 0 430 172 514 256 2 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_329.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1104.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1243.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1423.jpg 208 335 250 377 1 274 331 319 376 1 426 331 468 373 2 572 294 640 365 4 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_991.jpg 27 65 93 131 0 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_447.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_138.jpg 0 293 119 438 0 279 258 415 394 2 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_925.jpg 363 0 402 38 0 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_984.jpg 41 332 81 372 0 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1287.jpg 368 219 395 246 5 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_483.jpg 209 330 264 385 5 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1083.jpg 38 254 103 319 1 144 247 211 314 1 248 243 314 309 0 320 240 387 307 2 381 235 452 306 2 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_304.jpg 198 133 446 381 5 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_830.jpg 83 297 163 377 1 210 288 289 367 0 297 284 378 365 2 371 277 456 362 2 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_270.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_631.jpg 232 293 269 330 0 166 294 202 330 0 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_260.jpg 226 280 305 359 4 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_481.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1288.jpg 180 190 310 320 5 205 0 405 200 0 40 0 254 214 1 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_627.jpg 341 325 475 459 4 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1105.jpg 201 298 255 352 3 262 298 314 350 4 316 296 369 349 3 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_116.jpg 15 318 85 388 3 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_151.jpg 64 224 143 303 3 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_53.jpg 83 180 193 290 0 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_124.jpg 453 171 495 213 0 158 170 251 263 0 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_321.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_821.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_101.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_565.jpg 258 42 437 221 5 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1082.jpg 63 299 175 411 0 268 291 381 404 2 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_560.jpg 116 274 243 401 3 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1404.jpg 227 252 275 300 1 315 241 364 290 0 401 231 453 283 0 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_564.jpg 265 285 318 338 2 360 277 416 333 2 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_126.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_479.jpg 47 214 113 280 0 139 210 203 274 0 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_540.jpg 72 342 120 390 1 152 339 200 387 1 279 337 324 382 1 229 337 274 382 0 322 335 369 382 2 524 244 620 340 4 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_186.jpg 11 127 127 243 1 230 113 347 230 0 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_377.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1407.jpg 42 266 126 350 0 324 219 413 308 0 499 190 607 298 2 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_460.jpg 246 328 293 375 0 163 326 210 373 1 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1292.jpg 167 315 224 372 0 318 303 359 344 0 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_854.jpg 25 247 94 316 3 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_232.jpg 278 68 375 165 5 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1134.jpg 60 343 116 399 1 119 337 177 395 0 209 329 268 388 0 303 322 364 383 0 408 317 468 377 2 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_222.jpg 152 325 203 376 3 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_453.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_752.jpg 78 269 186 377 0 249 248 362 361 0 456 222 577 343 2 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_181.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1431.jpg 258 227 360 329 2 449 201 559 311 2 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_569.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1338.jpg 25 301 108 384 1 161 297 243 379 0 252 294 335 377 0 331 289 418 376 2 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_543.jpg 87 299 159 371 1 200 288 274 362 1 283 277 362 356 0 398 262 484 348 0 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1005.jpg 75 218 157 300 0 338 176 437 275 0 509 150 615 256 2 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_154.jpg 0 263 121 393 0 287 223 436 372 2 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_289.jpg 277 0 400 123 5 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_536.jpg 14 280 84 350 0 84 269 157 342 0 316 247 395 326 0 454 234 534 314 2 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_8.jpg 141 439 206 504 3 70 211 142 283 0 194 202 267 275 0 323 194 399 270 2 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1180.jpg 243 312 291 360 3 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_598.jpg 95 160 156 221 1 204 158 249 203 4 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_662.jpg 265 218 298 251 5 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_757.jpg 134 463 179 508 1 102 255 156 309 3 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_88.jpg 60 238 145 323 4 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_144.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1356.jpg 142 320 205 383 3 212 317 273 378 4 276 314 336 374 3 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1311.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_48.jpg 414 417 481 484 3 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_933.jpg 323 323 359 359 0 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_184.jpg 71 456 106 491 3 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_466.jpg 191 159 272 240 3 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1022.jpg 134 295 364 525 4 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_584.jpg 227 250 289 312 0 329 237 407 315 0 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_941.jpg 182 236 273 327 4 280 234 372 326 3 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1335.jpg 226 474 272 520 0 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_43.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_643.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1397.jpg 255 336 289 370 0 205 332 242 369 1 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_512.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1163.jpg 193 520 233 560 1 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_77.jpg 63 244 152 333 1 219 220 312 313 2 385 192 485 292 2 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_498.jpg 145 342 188 385 4 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1348.jpg 35 287 72 324 0 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_721.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_10.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_828.jpg 2 298 82 378 1 379 285 449 355 3 244 282 323 361 3 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1218.jpg 284 176 401 293 4 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_690.jpg 248 260 340 352 0 71 256 165 350 1 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_313.jpg 47 217 186 356 0 317 182 456 321 2 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1166.jpg 296 295 348 347 1 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_956.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_735.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_407.jpg 0 284 146 445 3 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1035.jpg 0 300 85 393 0 135 276 236 377 0 295 252 403 360 0 490 221 605 336 2 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_332.jpg 268 143 316 191 5 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_243.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1280.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1453.jpg 101 115 362 376 5 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_649.jpg 237 296 287 346 3 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_772.jpg 266 147 305 186 5 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1234.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_874.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_959.jpg 88 127 138 177 1 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1458.jpg 26 325 83 382 1 110 321 171 382 1 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_686.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1297.jpg 228 530 338 640 4 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_797.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_632.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_902.jpg 0 274 159 440 3 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_110.jpg 38 216 143 321 0 213 186 330 303 0 424 149 553 278 2 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1417.jpg 157 248 314 405 3 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_751.jpg 187 186 306 305 4 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1293.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_740.jpg 207 138 341 272 5 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_750.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1106.jpg 109 154 216 261 0 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1063.jpg 217 218 466 467 4 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_343.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_443.jpg 248 310 302 364 3 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_814.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1319.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_722.jpg 429 388 478 437 4 327 383 364 420 0 296 383 331 418 1 259 383 293 417 0 202 381 238 417 1 139 378 178 417 1 472 334 526 388 5 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_581.jpg 181 194 230 243 1 453 150 509 206 2 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_532.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_309.jpg 247 331 281 365 0 285 330 321 366 1 121 329 160 368 1 317 328 354 365 2 185 329 223 367 1 423 324 476 377 4 471 255 533 317 5 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_432.jpg 174 265 231 322 1 236 263 293 320 0 350 258 407 315 0 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1411.jpg 190 184 244 238 0 95 175 152 232 1 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_283.jpg 265 246 368 349 4 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1044.jpg 218 335 321 438 4 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_697.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1225.jpg 58 392 152 486 4 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_952.jpg 276 158 362 244 3 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_118.jpg 108 108 210 210 0 227 101 330 204 1 329 91 441 203 2 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1349.jpg 213 364 253 404 2 215 336 252 373 5 147 0 391 190 3 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_233.jpg 321 550 354 583 2 205 297 283 375 3 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1334.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_639.jpg 231 214 360 343 4 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_615.jpg 322 293 458 429 4 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1128.jpg 279 245 320 286 1 425 233 468 276 0 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_850.jpg 74 307 128 361 1 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1020.jpg 27 305 91 369 0 93 298 160 365 0 199 292 268 361 0 310 286 381 357 0 434 279 507 352 2 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_967.jpg 23 289 67 333 1 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1412.jpg 282 232 335 285 5 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_970.jpg 101 337 192 428 4 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1281.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_784.jpg 164 356 206 398 1 230 351 274 395 1 298 350 338 390 0 378 346 420 388 2 515 312 582 379 4 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1194.jpg 17 217 163 363 0 308 182 455 329 2 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_433.jpg 10 272 86 348 0 127 259 206 338 0 250 248 330 328 0 384 232 467 315 2 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_804.jpg 13 297 83 367 1 84 288 156 360 0 312 264 390 342 0 445 249 526 330 2 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_641.jpg 95 364 160 429 1 203 358 270 425 1 274 349 350 425 0 384 346 457 419 0 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_617.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_807.jpg 388 142 471 225 0 526 107 617 198 0 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1375.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_33.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_935.jpg 212 331 256 375 0 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_813.jpg 263 237 295 269 5 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_127.jpg 375 278 414 317 0 99 262 189 352 0 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_35.jpg 215 548 281 614 0 0 239 124 364 3 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_900.jpg 148 287 224 363 0 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1241.jpg 5 242 125 362 0 199 213 313 327 0 418 176 547 305 2 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1399.jpg 164 62 341 239 5 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_832.jpg 135 286 177 328 4 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_934.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_703.jpg 232 91 382 241 5 462 20 538 96 0 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_52.jpg 285 150 325 190 5 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1392.jpg 198 258 285 345 5 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_559.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1085.jpg 189 334 231 376 0 117 334 159 376 1 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1007.jpg 114 135 166 187 1 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1304.jpg 125 286 168 329 1 190 286 232 328 0 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_422.jpg 510 504 567 561 5 456 485 540 569 0 487 182 537 232 3 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1372.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_142.jpg 119 393 216 490 3 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1409.jpg 248 360 284 396 4 285 359 322 396 3 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1303.jpg 257 274 369 386 3 137 268 253 384 4 5 257 124 376 3 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_476.jpg 113 566 149 602 3 319 408 361 450 4 362 403 407 448 3 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_893.jpg 208 124 257 173 1 287 122 330 165 0 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_705.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_1171.jpg 67 368 137 438 0 164 357 237 430 0 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_656.jpg 
+/data/nas/AI/dev/licheng.zheng/23Winter-PatRec-Code/traffic-sign-detection/data/test_images/JPEGImages/sign_148.jpg 161 95 333 267 5 
