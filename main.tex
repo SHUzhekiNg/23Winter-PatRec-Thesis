@@ -104,7 +104,7 @@
 \begin{center}
     \setlength{\textwidth}{15cm}
     \parbox{\textwidth}{
-        \textbf{摘要：}作为交通系统的基本要素，交通标志提供了关于驾驶员、行人等的道路状况的重要信息，来降低事故风险。随着计算机视觉和人工智能的快速发展，交通标志识别算法已被应用于先进的驾驶员辅助系统和自动驾驶系统，以帮助驾驶员和自动驾驶车辆准确获取道路信息。然而在实际应用中，交通标志识别仍然具有挑战性。本文对比了经典的机器学习方法HOG+SVM，和通用视觉识别模型yolov5和yolov8方法，探讨在自动驾驶场景下的路标识别方法。
+        \textbf{摘要：}作为交通系统的基本要素，交通标志提供了关于驾驶员、行人等的道路状况的重要信息，来降低事故风险。随着计算机视觉和人工智能的快速发展，交通标志识别算法已被应用于先进的驾驶员辅助系统和自动驾驶系统，以帮助驾驶员和自动驾驶车辆准确获取道路信息。然而在实际应用中，交通标志识别仍然具有挑战性。本文对比了经典的机器学习方法HOG+SVM，和通用视觉识别模型YOLOv5和YOLOv8方法，探讨在自动驾驶场景下的路标识别方法。
         \newline
         \textbf{关键词：}图像识别, 支持向量机, 深度学习, 神经网络。
     }
@@ -154,6 +154,7 @@ YOLOv5已是目前最广泛使用的YOLO网络。相较于其前身有一系列�
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{算法实现描述}
 \subsection{HOG+SVM实现}
+HOG+SVM算法的实现流程如下表所述：
 \begin{algorithm}[H]
     \caption{ HOG+SVM路标识别算法步骤}
     \begin{algorithmic}[1]
@@ -174,21 +175,14 @@ YOLOv5已是目前最广泛使用的YOLO网络。相较于其前身有一系列�
 
 
 \subsection{YOLO实现}
+YOLO实现与HOG+SVM不同，将照片直接缩放成网络输入的形状大小即可，接下来便是网络本身的计算，而后网络会输出候选区域框的位置和类别预测值。如下图\ref{fig:1}即为YOLOv5n的网络结构。YOLOv8n在这之上修改了CSP部分的网络结构，由三个卷积层变为了两个卷积层，而增多了更多的跳层连接和额外的Split操作。
 
-\begin{algorithm}[H]
-    \caption{ YOLO路标识别算法步骤}
-    \begin{algorithmic}[1]
-        \Require
-        训练数据集；
-        待预测数据；
-        \Ensure
-        预测数据的类别，与兴趣区域位置;
-        \State 加载数据;
-        \State YOLO网络预测;
-        \Return
-        候选区域框位置，类别预测值;
-    \end{algorithmic}
-\end{algorithm}
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.8\textwidth]{YOLOv5n-seg-structure-diagram.png}
+    \caption{YOLOv5n的网络结构。}
+    \label{fig:1}
+\end{figure}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{实验描述}
@@ -214,7 +208,7 @@ mAP主要用于评估目标检测任务中的性能。它是所有类别的平�
 其中，\( n \) 是类别的总数，\( AP_i \) 是第 \( i \) 个类别的 Average Precision。
 
 \subsection{HOG+SVM实验及结果分析}
-在针对1200张图片学习针对的6种路标后，HOG+SVM算法的精确率、召回率和F1得分如表1所示。因其得分相当不可看，因此也无法进行合适的绘图。这样结果的原因，很大程度上是由于SVM算法无法胜任针对多分类的复杂现实问题。
+在针对1200张图片学习针对的6种路标后，HOG+SVM算法的精确率、召回率和F1得分如表\ref{table:score}所示。因其得分相当不可看，因此也无法进行合适的绘图。这样结果的原因，一是由于本身轮廓检测需要背景单一纯净，训练现实场景的roi噪声过大而难以选准。第二是由于SVM算法本身针对多分类的复杂现实问题的性能一般。
 \begin{table}[H]
     \caption{HOG+SVM的路标识别多指标分析}
     \begin{center}\label{table:score}
@@ -232,20 +226,20 @@ mAP主要用于评估目标检测任务中的性能。它是所有类别的平�
     \end{center}
 \end{table}
 
-如图1所示，虽然在背景是阴天的情况下，在空中的车道指示路标可以非常好的被识别出，但在一般情况下，如图2中的高架桥下的真实情况所示，图片左上角的右转路标的roi明显较小，且将摩托车错检为了人行横道标识，并且这样错检的情况在测试中相当普遍，这导致了该方法在指标上的落后，现实场景下也难以应用。
+如图\ref{fig:2}所示，虽然在背景是阴天的情况下，在空中的车道指示路标可以非常好的被识别出，但在一般情况下，如图\ref{fig:3}中的高架桥下的真实情况所示，图片左上角的右转路标的roi明显较小，且将摩托车错检为了人行横道标识，并且这样错检的情况在测试中相当普遍，这导致了该方法在指标上的落后，现实场景下也难以应用。
 \begin{figure}[H]
     \centering
     \begin{minipage}[t]{0.49\linewidth}
         \centering
         \includegraphics[width=1\linewidth, trim=0 50 0 50, clip]{test_results/sign_433_result.jpg}
         \caption{质量较好的HOG+SVM检测结果}
-        \label{fig:1}
+        \label{fig:2}
     \end{minipage}
     \begin{minipage}[t]{0.49\linewidth}
         \centering
         \includegraphics[width=1\linewidth, trim=50 30 50 160, clip]{test_results/sign_120_result.jpg}
         \caption{明显错检与roi不一致问题}
-        \label{fig:2}
+        \label{fig:3}
     \end{minipage}
  \end{figure}
 
@@ -253,28 +247,28 @@ mAP主要用于评估目标检测任务中的性能。它是所有类别的平�
 
 在经过4.2节实验，验证了HOG+SVM算法在现实场景中的局限性后，我们部署当下最流行的通用检测模型YOLOv5，和YOLO的最新SOTA YOLOv8。实验时我们自己设计了一个绘制准确度-召回率图的代码，因v5与v8两者的PR曲线差距不大，本文即以v5为例。
 
-如图3，YOLOv5达成了所有分类mAP@0.5值为0.908的高输出。黄车道线Liniya2由于与白车道线Liniya1相似，且数据量较少，容易产生错检，未能非常好的识别。而其他类别有非常好的收敛和学习，mAP@0.5值均超过0.8。
+如图\ref{fig:4}，YOLOv5达成了所有分类mAP@0.5值为0.908的高输出。黄车道线Liniya2由于与白车道线Liniya1相似，且数据量较少，容易产生错检，未能非常好的识别。而其他类别有非常好的收敛和学习，mAP@0.5值均超过0.8。
 \begin{figure}[H]
     \centering
-    \includegraphics[width=0.87\textwidth]{YOLOv5/train_yolov5/PR_curve.png}
+    \includegraphics[width=0.84\textwidth]{YOLOv5/train_yolov5/PR_curve.png}
     \caption{YOLOv5的准确度-召回率图，YOLOv8与之类似。}
-    \label{fig:3}
-\end{figure}
-
-如图4，对YOLOv5的归一化混淆矩阵的分析中，我们发现公交车标识、慢行标识、自行车道三种标识，网络都能百分百准确地识别出。这也是由于这些标识本身就含有文字或含有的信息较多。而对于车道线这样的图形信息较少的标识，如图中的Liniya1与Liniya2，网络还未能做到非常好的识别。综合来看，如图5中的mAP50-95，可以看到YOLOv8在精确性能上优于YOLOv5。
-\begin{figure}[H]
-    \centering
-    \includegraphics[width=1\textwidth]{YOLOv5/train_yolov5/confusion_matrix_normalized.png}
-    \caption{YOLOv5的归一化混淆矩阵图，YOLOv8与之类似。}
     \label{fig:4}
 \end{figure}
 
+如图\ref{fig:5}，对YOLOv5的归一化混淆矩阵的分析中，我们发现公交车标识、慢行标识、自行车道三种标识，网络都能百分百准确地识别出。这也是由于这些标识本身就含有文字或含有的信息较多。而对于车道线这样的图形信息较少的标识，如图中的Liniya1与Liniya2，网络还未能做到非常好的识别。综合来看，如图\ref{fig:6}中的mAP50-95，可以看到YOLOv8在精确性能上优于YOLOv5。
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.95\textwidth]{YOLOv5/train_yolov5/confusion_matrix_normalized.png}
+    \caption{YOLOv5的归一化混淆矩阵图，YOLOv8与之类似。}
+    \label{fig:5}
+\end{figure}
+
 
 \begin{figure}[H]
     \centering
-    \includegraphics[width=0.82\textwidth]{contrast.png}
+    \includegraphics[width=0.7\textwidth]{contrast.png}
     \caption{YOLOv5与YOLOv8的mAP对比。YOLOv8略优与YOLOv5。}
-    \label{fig:5}
+    \label{fig:6}
 \end{figure}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -293,7 +287,6 @@ mAP主要用于评估目标检测任务中的性能。它是所有类别的平�
 \bibliographystyle{ieeetr}  % 定义文献引用的格式
 
 %%%%%%%%%%%%%%%%%%%%%%%附录%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\newpage{}
 \appendix
 \section{附录}
 \begin{appendices}
